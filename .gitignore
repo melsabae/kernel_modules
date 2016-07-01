@@ -1,5 +1,6 @@
-*.order
-*.symvers
-*.ko
-*.mod.*
-*.o
+*.order*
+*.symvers*
+*.ko*
+*.mod*
+*.o*
+*.tmp*
